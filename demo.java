@@ -1,1 +1,1 @@
-System.out.println()[D""[DHello")
+System.out.println("Hello!");
